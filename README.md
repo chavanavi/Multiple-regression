@@ -1,4 +1,4 @@
-# Multiple-regression
+#    Multiple-regression
 The independent variable is the parameter that is used to calculate the dependent variable or outcome. A multiple regression model extends to several explanatory variables.
 
 The multiple regression model is based on the following assumptions:
